@@ -54,8 +54,7 @@ Repository
         
 
 ## Summary
----
-    For healthy loans(0), the precision is 1(100%), indicating the sample predictions were accurate. The recall is 1(100%), indicating that all the actual positive instances were accurate. 
-    For high-risk loans (1), the precision is .87(87%), indicating 87% of predictions were accurate. The recall is .95(95%), indicating that 95% of all actual positive instances were accurate. 
-    Overall the accuracy of the model is 99(99%).
-    The model is highly effective in detecting health loans and pretty good in detecting high-risk loans.  The model is well-balanced and should be a good source for identifying healthy loans and high-risk loans.
+For healthy loans(0), the precision is 1(100%), indicating the sample predictions were accurate. The recall is 1(100%), indicating that all the actual positive instances were accurate. 
+For high-risk loans (1), the precision is .87(87%), indicating 87% of predictions were accurate. The recall is .95(95%), indicating that 95% of all actual positive instances were accurate. 
+Overall the accuracy of the model is 99(99%).
+The model is highly effective in detecting health loans and pretty good in detecting high-risk loans.  The model is well-balanced and should be a good source for identifying healthy loans and high-risk loans.
